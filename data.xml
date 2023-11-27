@@ -32,6 +32,29 @@
 					<outlet id="1" instock="10"/>
 				</outlets>
 			</offer>
+			 <offer id="TOYOTA_0888083714" available="true">
+      <url>https://all-world-cars.com/parts/TOYOTA/0888083714?FranchiseeId=7362305&amp;d=11605657</url>
+      <price>4240.00</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>49</categoryId>
+      <picture>https://pubimg.nodacdn.net/images/110fe3a9779b065d5eea0808c58c3a1adfb3fa0005.jpeg</picture>
+      <name>TOYOTA Масло Моторное Toyota Motor Oil 5W-30 Синтетическое 4 Л</name>
+      <vendor>TOYOTA</vendor>
+      <vendorCode>0888083714</vendorCode>
+      <description>Масло Моторное Toyota Motor Oil 5W-30 Синтетическое 4 Л</description>
+      <min-quantity>1</min-quantity>
+      <step-quantity>1</step-quantity>
+      <outlets>
+          <outlet id="1" instock="12"></outlet>
+      </outlets>
+      <param name="Состав масла">синтетика</param>
+      <param name="Спецификация ACEA">A3/B4</param>
+      <param name="Спецификация API">CF/SN</param>
+      <param name="Тип ёмкости">Канистра пластиковая</param>
+      <param name="Объём, л.">4</param>
+      <param name="Вязкость">5W-30</param>
+      <param name="Вес, кг">4.09</param>
+  </offer>
 			<offer id="157465" available="true">
     <url>https://technopark.ru/smartfon-apple-iphone-15-pro-512-gb-dual-sim-titanovyy-chernyy/</url>
     <price>209990</price>
