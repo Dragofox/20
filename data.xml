@@ -14,6 +14,7 @@
 			<category id="167" parentId="162">Матрасы анатомические</category>
 			<category id="168" parentId="162">Детские матрасы</category>
 			<category id="961">Телефоны</category>
+			<category id="49">Телефоны</category>
 		</categories>
 		<offers>
 			<offer id="5678" available="true">
@@ -35,7 +36,7 @@
 			 <offer id="TOYOTA_0888083714" available="true">
       <url>https://all-world-cars.com/parts/TOYOTA/0888083714?FranchiseeId=7362305&amp;d=11605657</url>
       <price>4240.00</price>
-      <currencyId>RUB</currencyId>
+      <currencyId>RUR</currencyId>
       <categoryId>49</categoryId>
       <picture>https://pubimg.nodacdn.net/images/110fe3a9779b065d5eea0808c58c3a1adfb3fa0005.jpeg</picture>
       <name>TOYOTA Масло Моторное Toyota Motor Oil 5W-30 Синтетическое 4 Л</name>
