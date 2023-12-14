@@ -55,9 +55,7 @@
     <outlets>
      <outlet id="0" instock="8"/>
     </outlets>
-   </offer>
-    </outlets>
-                </offer>
+		</offer>
 		</offers>
 	</shop>
 </yml_catalog>
