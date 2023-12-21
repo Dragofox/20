@@ -58,6 +58,33 @@
      <outlet id="0" instock="8"/>
     </outlets>
    </offer>
+	<offer id="4428326" available="true"><url>https://frontend-sl.local/4428326/stellazh-s-dvercami-kosmos-60-60-cm-cvet-belyy/</url>
+<name>Стеллаж с дверцами «Космос», 60 × 60 см, цвет белый</name>
+<model>Мебель для самых маленьких. ZABIAKA</model>
+<price>5500.00</price>
+<categoryId>32202</categoryId>
+<picture>https://cdn2.static1-sima-land.com/items/4013494/0/700-nw.jpg?v=0</picture>
+<vendor>ZABIAKA</vendor>
+<vendorCode>Р00010236</vendorCode>
+<description><![CDATA[ Стеллаж с дверцами послужит функциональным украшением для детской комнаты.Яркие аппликации привлекут внимание ребёнка.Подойдёт для хранения личных вещей и игрушек.Примечание: возможности крепления не стену нет. ]]></description>
+<param name="Материал">МДФ, ХДФ</param>
+<param name="Размер">60 см × 30 см × 60 см</param>
+<param name="Размер упаковки">35 см × 8 см × 60 см</param>
+<param name="Вид упаковки">пупырчатая пленка</param>
+<param name="Сертификация">ЕАС</param>
+<param name="Торговая марка">ZABIAKA</param>
+<param name="Остаток на складе">Достаточно</param>
+<param name="Вес" unit="г">11600</param>
+<param name="Ширина, мм">600</param>
+<param name="Цвет">Белый</param>
+<param name="Высота, мм">600</param>
+<param name="Количество секций">4</param>
+<param name="Глубина, мм">350</param>
+<param name="Поставляется в разобранном виде">Да</param>
+<outlets>
+<outlet id="0" instock="14"/>
+</outlets>
+</offer>
 		</offers>
 	</shop>
 </yml_catalog>
